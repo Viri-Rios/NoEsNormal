@@ -1,0 +1,87 @@
+"sector","indice_productividad_laboral_horas_trabajadas_2005","indice_productividad_laboral_horas_trabajadas_2019","indice_costo_unitario_mano_obra_horas_trabajadas_2005","indice_costo_unitario_mano_obra_horas_trabajadas_2019","personalremunerado"
+"3111  Elaboración de alimentos para animales",93,77.8,119.1,145.8,18061
+"3112  Molienda de granos y de semillas y obtención de aceites y grasas",102.8,104,117.7,113.3,29789
+"3113  Elaboración de azúcares, chocolates, dulces y similares",71.8,93.5,136.5,117.1,78434
+"3114  Conservación de frutas, verduras, guisos y otros alimentos preparados",100.1,109.1,107.3,100.4,58159
+"3115  Elaboración de productos lácteos",81.9,77.6,133.3,152.6,63910
+"3116  Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",101.3,104.5,95.9,102.4,66177
+"3117  Preparación y envasado de pescados y mariscos",64.5,104.1,124.8,104,9211
+"3118  Elaboración de productos de panadería y tortillas",98.8,120.6,118.4,97.7,258389
+"3119  Otras industrias alimentarias",92.6,145.3,119.1,71.6,58204
+"3121  Industria de las bebidas",76.3,112.7,155.7,103.1,105925
+"3122  Industria del tabaco",89.2,93.1,111,126.6,1924
+"3131  Preparación e hilado de fibras textiles, y fabricación de hilos",95,119.2,122,87.8,13080
+"3132  Fabricación de telas",122.1,109.2,107.3,111.7,41569
+"3133  Acabado de productos textiles y fabricación de telas recubiertas",128.7,105.9,83.2,110.6,18250
+"3141  Confección de alfombras, blancos y similares",94.5,141.6,103.6,82.1,16596
+"3149  Fabricación de otros productos textiles, excepto prendas de vestir",94.7,118,108.6,100.8,26737
+"3151  Fabricación de prendas de vestir de tejido de punto",81.2,105.8,134,93.5,20976
+"3152  Confección de prendas de vestir",105.4,108.3,103.6,135.4,218080
+"3159  Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte",225.7,114.4,46.1,103.1,4855
+"3161  Curtido y acabado de cuero y piel",123.5,129.5,79.7,87.6,17850
+"3162  Fabricación de calzado",88.1,105.2,127.4,113.6,108835
+"3169  Fabricación de otros productos de cuero, piel y materiales sucedáneos",179.5,111.6,57.2,123.7,9504
+"3211  Aserrado y conservación de la madera",62.2,112.9,160.3,108.6,8813
+"3212  Fabricación de laminados y aglutinados de madera",91.5,94.1,93.4,102.6,3832
+"3219  Fabricación de otros productos de madera",116.8,110.2,98.8,107.7,43674
+"3221  Fabricación de pulpa, papel y cartón",97.4,111.4,111.7,98.5,19127
+"3222  Fabricación de productos de cartón y papel",83,111.4,133,98.5,87978
+"3231  Impresión e industrias conexas",80.4,57.8,137.3,177.7,87710
+"3241  Fabricación de productos derivados del petróleo y del carbón",116,57.8,104.2,177.7,28230
+"3251  Fabricación de productos químicos básicos",109.6,89.6,95.3,97.1,30815
+"3252  Fabricación de resinas y hules sintéticos, y fibras químicas",89,99.4,141.6,122,8978
+"3253  Fabricación de fertilizantes, pesticidas y otros agroquímicos",64.8,85.8,188.4,148.4,9221
+"3254  Fabricación de productos farmacéuticos",107.7,110.3,122.2,91.4,64236
+"3255  Fabricación de pinturas, recubrimientos y adhesivos",92.9,103.4,111.9,104.9,16195
+"3256  Fabricación de jabones, limpiadores y preparaciones de tocador",81.8,97.7,144.9,105.9,43844
+"3259  Fabricación de otros productos químicos",141.8,105,126.4,117.1,20207
+"3261  Fabricación de productos de plástico",96.9,98.1,108.8,125.1,225122
+"3262  Fabricación de productos de hule",91.2,82.7,113.8,138.2,46079
+"3271  Fabricación de productos a base de arcillas y minerales refractarios",91.7,107.2,109.4,104.6,42555
+"3272  Fabricación de vidrio y productos de vidrio",95.3,122.2,121.1,95.4,33395
+"3273  Fabricación de cemento y productos de concreto",98.5,110.6,112.1,98.8,37461
+"3274  Fabricación de cal, yeso y productos de yeso",72.1,105.1,127.9,110.9,5488
+"3279  Fabricación de otros productos a base de minerales no metálicos",87.2,122.5,97,111.3,16470
+"3311  Industria básica del hierro y del acero",106.4,84.4,84.9,109.6,14263
+"3312  Fabricación de productos de hierro y acero",93.9,87.6,108.3,136.1,30706
+"3313  Industria básica del aluminio",90.8,86,124.4,119.7,11767
+"3314  Industrias de metales no ferrosos, excepto aluminio",147.6,103.3,66.5,133.3,7578
+"3315  Moldeo por fundición de piezas metálicas",94.4,91.7,98.4,139.9,21913
+"3321  Fabricación de productos metálicos forjados y troquelados",112.6,79.3,98.4,153.5,16371
+"3322  Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos",150.2,50.9,70.4,241.5,7031
+"3323  Fabricación de estructuras metálicas y productos de herrería",51.4,118.7,251.2,102.8,88380
+"3324  Fabricación de calderas, tanques y envases metálicos",87,92.2,104,114.6,18252
+"3325  Fabricación de herrajes y cerraduras",75.9,104.2,116.6,107.7,16261
+"3326  Fabricación de alambre, productos de alambre y resortes",97.3,75.5,103.6,146.9,13952
+"3327  Maquinado de piezas metálicas y fabricación de tornillos",87.4,121.9,106.6,109.4,57520
+"3328  Recubrimientos y terminados metálicos",84.4,117.9,144.5,119.3,23222
+"3329  Fabricación de otros productos metálicos",92.4,101.8,105.7,118.1,56111
+"3331  Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",117.1,92.8,108.5,119.3,25859
+"3332  Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",163.4,105.2,52.9,112.8,11123
+"3333  Fabricación de maquinaria y equipo para el comercio y los servicios",65.2,149.9,138.3,77.1,7379
+"3334  Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",81.9,109.6,132.1,109.6,35595
+"3335  Fabricación de maquinaria y equipo para la industria metalmecánica",139.2,113.2,76.4,99.1,6807
+"3336  Fabricación de motores de combustión interna, turbinas y transmisiones",40.8,73.5,290.4,162.7,20277
+"3339  Fabricación de otra maquinaria y equipo para la industria en general",113.4,95.7,85,115.9,44553
+"3341  Fabricación de computadoras y equipo periférico",58.7,111.9,145.1,100.1,31185
+"3342  Fabricación de equipo de comunicación",86.5,90.5,123.5,122.5,48926
+"3343  Fabricación de equipo de audio y de video",81.2,134.2,117,91.8,52842
+"3344  Fabricación de componentes electrónicos",179.7,105.1,62.8,132.9,174718
+"3345  Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",86.9,93.2,91.3,127.6,17324
+"3346  Fabricación y reproducción de medios magnéticos y ópticos",127.2,118.8,86.6,87.2,4716
+"3351  Fabricación de accesorios de iluminación",110.3,97.1,89.5,114,18181
+"3352  Fabricación de aparatos eléctricos de uso doméstico",104.4,114.9,99.4,101.7,37084
+"3353  Fabricación de equipo de generación y distribución de energía eléctrica",105.1,113.9,95.7,101,59858
+"3359  Fabricación de otros equipos y accesorios eléctricos",105.9,100.7,90.7,111.6,67162
+"3361  Fabricación de automóviles y camiones",95.1,83.2,110.7,132.3,86178
+"3362  Fabricación de carrocerías y remolques",132.9,144.4,80.5,91.2,24520
+"3363  Fabricación de partes para vehículos automotores",100.6,91.8,107.3,128.6,842951
+"3364  Fabricación de equipo aeroespacial",200,131.9,49.1,91.5,32033
+"3365  Fabricación de equipo ferroviario",1065.8,123.3,17.4,105.8,14254
+"3366  Fabricación de embarcaciones",57.1,136.8,156.9,103.1,6808
+"3369  Fabricación de otro equipo de transporte",95.5,158.2,94.5,79.4,8155
+"3371  Fabricación de muebles, excepto de oficina y estantería",84.2,115.4,134.4,111.3,86314
+"3372  Fabricación de muebles de oficina y estantería",78.1,103.4,126.1,113.9,25204
+"3379  Fabricación de colchones, persianas y cortineros",88.7,86.9,114.9,123.8,20456
+"3391  Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",128.5,122.6,82.3,106.1,161285
+"3399  Otras industrias manufactureras",72.3,109,135.3,120.2,80954

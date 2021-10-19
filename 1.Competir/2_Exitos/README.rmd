@@ -1,0 +1,10 @@
+---
+title: "Instrucciones para el código del capítulo 'Éxitos de hoy y siempre'"
+output: github_document
+---
+
+1. Descargar la carpeta "2_Exitos" sin cambiar la estructura de las carpetas. Cambiar solamente el directorio raíz.
+
+2. Correr el código "02.Competir_Exitos_VF"
+
+3. Los resultados aparecerán en la carpeta "output"

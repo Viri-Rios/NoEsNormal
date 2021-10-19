@@ -1,0 +1,7 @@
+---
+title: "Archivos del capítulo 'Empresalandia'"
+output: github_document
+---
+
+- El archivo incluído en la carpeta "3_Empresalandia" contiene los datos de concentración de la producción bruta total y el valor agregado por sector de la economía.
+- La descripción detallada de cada una de las variables se encuentra en la pestaña "Metadata" dentro del archivo.

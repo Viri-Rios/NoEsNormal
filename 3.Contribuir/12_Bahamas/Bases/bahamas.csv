@@ -1,0 +1,5 @@
+"Estrato","Impuestos.totales","Total.a.deber","Distribución.ingreso.de.hogares","Distribución.del.pago.de.impuestos.total","Distribución.del.pago.del.IVA","Distribución.del.pago.del.IEPS","Distribución.del.pago.de.Seguridad.social"
+"1. Hogares pobres (50% de la población)",27260.2877030426,774.0485841,0.117,0.113639234656486,0.214,0.20245461166872,0.134
+"2. Hogares de ingreso medio (40% de la población)",129699.612916452,-26418.61704,0.345,0.433316657720578,0.468,0.496774363505602,0.512
+"3. Hogares de ingreso alto (top-10% sin top-1%)",408885.634122991,77082.13618,0.365,0.307362638071323,0.215743494423792,0.204198290047766,0.240845724907063
+"4. Hogares ricos (top-1%)",1744205.29405342,328813.3864,0.173,0.145681469551613,0.102256505576208,0.0967843950089411,0.114154275092937

@@ -1,0 +1,7 @@
+---
+title: "Archivos del capítulo 'La Banca Abusa'"
+output: github_document
+---
+
+- El archivo incluído en la carpeta "4_Empresalandia" contiene los datos de ingresos de la banca por intereses.
+- Los datos corresponden a la información presentada en la Figura 4 en el texto del libro.
